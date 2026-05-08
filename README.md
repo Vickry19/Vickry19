@@ -1,6 +1,12 @@
-```html
 <h1 align="center">Hi 👋, I'm Vickry</h1>
-<h3 align="center">A passionate Frontend & Mobile Developer from Indonesia 🇮🇩</h3>
+
+<h3 align="center">
+  A passionate Frontend & Mobile Developer from Indonesia 🇮🇩
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Flutter+Developer;Always+Learning+New+Things+🚀" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vickry19&label=Profile%20Views&color=0e75b6&style=flat" alt="vickry19" />
@@ -20,36 +26,53 @@
 
 <h3 align="center">🛠 Languages & Tools</h3>
 
-<p align="center">
+<div align="center">
 
-  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma" />
+  
+  <br><br>
 
-  <br/><br/>
-
-  <!-- Backend & Database -->
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres,firebase" />
+  
+  <br><br>
 
-  <br/><br/>
-
-  <!-- Mobile & Programming -->
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,c,swift" />
+  
+  <br><br>
 
-  <br/><br/>
-
-  <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,linux,postman,arduino,unity,photoshop" />
 
+</div>
+
+---
+
+<h3 align="center">🔥 GitHub Streak</h3>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Vickry19&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">🏆 GitHub Trophy</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vickry19&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickry19&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Vickry19&theme=tokyonight&no-frame=true&row=1&column=6" 
+  />
+</p>
+
+---
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Vickry19/Vickry19/output/github-contribution-grid-snake-dark.svg" 
+    alt="snake animation"
+  />
 </p>
 
 ---
@@ -57,4 +80,4 @@
 <p align="center">
   ✨ Always learning new technologies and building cool projects ✨
 </p>
-```
+
