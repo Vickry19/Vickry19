@@ -23,11 +23,21 @@ jobs:
       - name: Commit & Push
         run: |
           git clone https://github.com/Vickry19/Vickry19.git out
+
+          mkdir -p out/profile-3d-contrib
+
           cp -r profile-3d-contrib/* out/profile-3d-contrib
+
           cd out
+
           git config user.name github-actions
           git config user.email github-actions@github.com
+
           git add .
-          git commit -m "generated"
+
+          git commit -m "generated 3d contribution" || echo "No changes"
+
           git push
+
+
 
