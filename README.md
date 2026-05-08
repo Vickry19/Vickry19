@@ -59,6 +59,38 @@
 </div>
 
 ---
+
+<!-- ================= STATS ================= -->
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vickry19&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vickry19&theme=tokyonight"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vickry19&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vickry19&theme=tokyonight"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vickry19&theme=tokyonight&utcOffset=7"
+  />
+</p>
+
+---
 <!-- ================= STREAK ================= -->
 
 <h3 align="center">🔥 GitHub Streak</h3>
@@ -82,22 +114,6 @@
 </p>
 
 ---
-
-<!-- ================= HOLPIN BADGE ================= -->
-
-<h3 align="center">🎖 Holopin Badges</h3>
-
-<p align="center">
-  <a href="https://holopin.io/@vickry19">
-    <img 
-      src="https://holopin.me/vickry19"
-      alt="Holopin badges"
-    />
-  </a>
-</p>
-
----
-
 <!-- ================= SNAKE ================= -->
 
 <h3 align="center">🐍 Contribution Snake</h3>
@@ -109,17 +125,6 @@
   />
 </p>
 
----
-
-<!-- ================= 3D CONTRIBUTION ================= -->
-
-<h3 align="center">🌌 3D Contribution</h3>
-
-<p align="center">
-  <img 
-    src="./profile-3d-contrib/profile-night-rainbow.svg"
-  />
-</p>
 
 ---
 
