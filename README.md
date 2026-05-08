@@ -59,25 +59,6 @@
 </div>
 
 ---
-
-<!-- ================= STATS ================= -->
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=Vickry19&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickry19&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
 <!-- ================= STREAK ================= -->
 
 <h3 align="center">🔥 GitHub Streak</h3>
@@ -85,30 +66,6 @@
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=Vickry19&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
-<!-- ================= ACTIVITY GRAPH ================= -->
-
-<h3 align="center">📈 Contribution Graph</h3>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Vickry19&theme=tokyo-night&hide_border=true"
-  />
-</p>
-
----
-
-<!-- ================= TROPHY ================= -->
-
-<h3 align="center">🏆 GitHub Trophy</h3>
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Vickry19&theme=tokyonight&no-frame=true&row=1&column=6"
   />
 </p>
 
@@ -131,9 +88,9 @@
 <h3 align="center">🎖 Holopin Badges</h3>
 
 <p align="center">
-  <a href="https://holopin.io/@vickry">
+  <a href="https://holopin.io/@vickry19">
     <img 
-      src="https://holopin.me/vickry"
+      src="https://holopin.me/vickry19"
       alt="Holopin badges"
     />
   </a>
@@ -171,19 +128,6 @@
 </p>
 
 ---
-
-<!-- ================= PROFILE METRICS ================= -->
-
-<h3 align="center">⚡ Profile Metrics</h3>
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Vickry19/Vickry19/main/github-metrics.svg"
-    alt="metrics"
-    width="100%"
-  />
-</p>
-
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
